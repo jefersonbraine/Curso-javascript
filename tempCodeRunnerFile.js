@@ -1,3 +1,5 @@
-const salario = 1500;
+function soma(item1, item2) {
+    return item1 + item2;
+}
 
-console.log('salario: ', salario.toFixed(2))
+console.log('SOMA: ', soma(1, 2))
