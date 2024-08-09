@@ -19,8 +19,8 @@ Você aprenderá a criar aplicativos de página única usando React, uma das pri
 
 # ACESSE MINHAS ANOTAÇÕES
 ### Procurando saber mais sobre JavaScript?
-Acesse as minhas anotações que fiz no Notion através [desse link](https://coral-address-f67.notion.site/Java-Script-4c7d2a82580b4952ab9f79fea7f1c3df?pvs=4), posso 
-algo que te ajude e que resolva qualquer dúvida que você anda tendo.
+Acesse as minhas anotações que fiz no Notion através [desse link](https://coral-address-f67.notion.site/Java-Script-4c7d2a82580b4952ab9f79fea7f1c3df?pvs=4), posso ter
+algo que te ajude ou que resolva qualquer dúvida que você anda tendo.
 
 Muito obrigado pela sua atenção e aproveite o conteúdo do meu repositório!
 
