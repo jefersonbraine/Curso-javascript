@@ -1,5 +1,3 @@
-function soma(item1, item2) {
-    return item1 + item2;
-}
+const mensagem = 'ola mundo'
 
-console.log('SOMA: ', soma(1, 2))
+console.log(mensagem.length)
