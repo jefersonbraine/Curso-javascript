@@ -1,5 +1,5 @@
 # Desvendando a web: HTML, CSS, Javascript e Typescript [2023]
-## Professor: Juliou Souza Sena
+## Professor: Júlio Souza Sena
 #### Cargo: Software Engineer Senior
 # Conteúdo
 Este curso completo de Desenvolvimento Web Full Stack foi projetado para ensinar HTML, CSS, JavaScript, TypeScript e lógica de programação para iniciantes.
