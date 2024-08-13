@@ -41,8 +41,8 @@ const lista = [
     },
 
 ]
-const resultadoSome = lista.some((objeto) => objeto.idade > 21);
-const resultadoEvery = lista.every((objeto) => objeto.idade > 50);
+const resultadoSome = lista.some((objeto) => objeto.idade > 21); // precisa ter pelo menos um para ser true
+const resultadoEvery = lista.every((objeto) => objeto.idade > 50);//todos tem que dar true
 
 console.log('resultadoSome:', resultadoSome);
 console.log('resultadoEvery:', resultadoEvery);
