@@ -22,6 +22,8 @@ Você aprenderá a criar aplicativos de página única usando React, uma das pri
 Acesse as minhas anotações que fiz no Notion através [desse link](https://coral-address-f67.notion.site/Java-Script-4c7d2a82580b4952ab9f79fea7f1c3df?pvs=4), posso ter
 algo que te ajude ou que resolva qualquer dúvida que você anda tendo.
 
+CONTINUAÇÃO ACESSE [POR AQUI](https://github.com/jefersonbraine/Curso_JavaScript_TypeScript.V2)
+
 Muito obrigado pela sua atenção e aproveite o conteúdo do meu repositório!
 
 Precisando é só me chamar que estou a disposição pra ajudar 😁😁😁 !!!
