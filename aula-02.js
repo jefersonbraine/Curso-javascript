@@ -5,4 +5,5 @@ if (number1 === 1) {
     number2 = 6;
 }
 
-console.log('resultado: ', number2) 
+console.log("resultado: ", number2);
+
